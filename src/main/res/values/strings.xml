@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HandyManProvider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_sign_in_or_sign_up_to_continue">Sign in or Sign up to continue</string>
+    <string name="text_mobile_number">Mobile Number</string>
+    <string name="text_continue">Continue</string>
+    <string name="text_or_continue_with">Or Continue With</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_google_plus">Google+</string>
+    <string name="text_term_condition">By signing up, you are agree to our <u>terms &amp; condition</u></string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="hint_enter_full_name">Enter full Name</string>
+    <string name="hint_email_id">Enter Email id</string>
+    <string name="text_enter_otp_sent_to_above_given_number">Enter OTP Sent to above given number</string>
+    <string name="text_timer">00:23</string>
+    <string name="text_resend_otp">Resend OTP</string>
+    <string name="hint_pass">Pass</string>
+    <string name="text_sign_up_now">Sign up now</string>
+    <string name="text_forgot_password">Forgot Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_requests">Requests</string>
+    <string name="title_review">Review</string>
+    <string name="title_account">Account</string>
+    <string name="title_chats">chats</string>
+    <string name="text_sample">found a beauticain you many ssearch for.</string>
+</resources>
